@@ -1,0 +1,9 @@
+.quote {
+  border: 1px solid #000000;
+  margin: 5px;
+  padding: 5px;
+  width: 200px;
+  height: 100px;
+  float: left;
+  overflow: scroll;
+}
